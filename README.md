@@ -9,7 +9,7 @@ A simple Python-based voice assistant that can recognize speech, respond with vo
 - 📖 Fetch Wikipedia summaries
 - 💬 Respond to greetings
 
-## 🛠️ Setup Instructions
+# 🛠️ Setup Instructions
 1. Clone the repository:
    ```bash
    git clone https://github.com/<username>/<repo>.git
